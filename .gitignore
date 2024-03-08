@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.svg
+*.png
+*.summary
+*.html
+trim_reports/
+rseqc/
+multiqc_data/
+fastqc/
+bowtie/
+~$*
