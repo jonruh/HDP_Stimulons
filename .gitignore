@@ -11,3 +11,4 @@ fastqc/
 bowtie/
 ~$*
 data_temp/
+figures/
