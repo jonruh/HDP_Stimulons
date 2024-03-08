@@ -10,3 +10,4 @@ multiqc_data/
 fastqc/
 bowtie/
 ~$*
+data_temp/
